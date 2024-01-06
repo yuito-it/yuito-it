@@ -13,3 +13,5 @@ In GitHub, I too busy to reply faster. Sorry.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuito-it&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuito-it)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Metrix](./github-metrics.svg)
