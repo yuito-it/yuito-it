@@ -1,6 +1,6 @@
 ### I'm here 👋
 
-I'm Akatsuki Yuito, the normal JHS student in JP.
+I'm Akatsuki Yuito, a S High School Student in Mie-pref.,JP.
 
 I can many things.My motto is "Do anything!"
 
