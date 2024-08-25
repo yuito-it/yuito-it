@@ -11,6 +11,15 @@
 [![R](https://custom-icon-badges.herokuapp.com/badge/R-198CE7.svg?logo=R&logoColor=white)]()
 [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-e38c00.svg?logo=SQL&logoColor=white)]()
 [![TypeScript](https://custom-icon-badges.herokuapp.com/badge/TypeScript-2b7489.svg?logo=TypeScript&logoColor=white)]()
+[![PHP](https://custom-icon-badges.herokuapp.com/badge/PHP-7276b1.svg?logo=PHP&logoColor=white)]()
+[![GitHubActions](https://custom-icon-badges.herokuapp.com/badge/GitHubActions-000000.svg?logo=GitHub&logoColor=white)]()
+[![K8s](https://custom-icon-badges.herokuapp.com/badge/Kubernetes-316de6.svg?logo=kubernetes&logoColor=white)]()
+[![tailwind](https://custom-icon-badges.herokuapp.com/badge/TailwindCSS-ffffff.svg?logo=tailwind&logoColor=white)]()
+[![NextJS](https://custom-icon-badges.herokuapp.com/badge/NextJS-ffffff.svg?logo=NextJS&logoColor=white)]()
+[![Python](https://custom-icon-badges.herokuapp.com/badge/Python-316de6.svg?logo=Python&logoColor=white)]()
+[![React](https://custom-icon-badges.herokuapp.com/badge/React-000000.svg?logo=React&logoColor=white)]()
+[![Docker](https://custom-icon-badges.herokuapp.com/badge/Docker-1c63ed.svg?logo=Docker&logoColor=white)]()
+[![Mediawiki](https://custom-icon-badges.herokuapp.com/badge/Mediawiki-e54b4d.svg?logo=Mediawiki&logoColor=white)]()
 
 I'm Akatsuki Yuito, a S High School Student in Mie-pref.,JP.
 
@@ -18,7 +27,7 @@ I can many things.My motto is "Do anything!"
 
 I'm usually tweeting in Twitter(not X).If you want to contact, pls send DM on Twitter.
 
-In GitHub, I too busy to reply faster. Sorry.
+I too busy to reply faster. Sorry.
 
 ### SNS
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20yuito-it)](https://github.com/yuito-it)
