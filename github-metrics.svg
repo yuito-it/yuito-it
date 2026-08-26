@@ -226,7 +226,7 @@
                     <rect mask="url(#languages-bar)" x="431.3409845860147" y="0" width="13.048674678146323" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="444.389659264161" y="0" width="9.128159474227306" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="453.51781873838837" y="0" width="3.9829280978230464" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.50074683621136" y="0" width="2.4992531637886195" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.50074683621136" y="0" width="2.4992531637886195" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -273,7 +273,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
                     </div>
@@ -1322,7 +1322,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2026, 01:18:31 (timezone Etc/GMT-9) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2026, 04:03:43 (timezone Etc/GMT-9) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
